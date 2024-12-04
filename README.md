@@ -1,5 +1,7 @@
 # :page_facing_up: 同济大学本科生毕业设计论文模板（理工类）
 
+本项目摘自github项目[tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)，为了能够适应课程报告撰写等，做了一些修改。
+
 中文 | [English](README-EN.md)
 
 ## 样例展示
