@@ -16,6 +16,8 @@ _out
 *.toc
 *.xdv
 *.synctex.gz
-
+.history
 # minted
 _minted-main/
+*.bbl-SAVE-ERROR
+*.bcf-SAVE-ERROR
